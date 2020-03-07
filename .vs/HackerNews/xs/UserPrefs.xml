@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{F8DA130F-660E-4F34-AECA-49820A1508A8}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HackerNews" expanded="True">
+            <Node name="HackerNews" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="CommandInterfaces" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Post.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="HackerNews.UnitTests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HackerNews PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/acesingh/Documents/HackerNews/HackerNews/CommandInterfaces/1tfhp193.1di~" relfile="HackerNews/CommandInterfaces/1tfhp193.1di~" line="11" column="1" />
+      <Breakpoint file="/Users/acesingh/Documents/HackerNews/HackerNews.UnitTests/PostCommandTest.cs" relfile="HackerNews.UnitTests/PostCommandTest.cs" line="72" column="1" />
+      <Breakpoint file="/Users/acesingh/Documents/HackerNews/HackerNews.UnitTests/PostCommandTest.cs" relfile="HackerNews.UnitTests/PostCommandTest.cs" line="51" column="1" />
+      <Breakpoint file="/Users/acesingh/Documents/HackerNews/HackerNews.UnitTests/PostCommandTest.cs" relfile="HackerNews.UnitTests/PostCommandTest.cs" line="31" column="1" />
+      <Breakpoint file="/Users/acesingh/Documents/HackerNews/HackerNews.UnitTests/PostCommandTest.cs" relfile="HackerNews.UnitTests/PostCommandTest.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/acesingh/Documents/HackerNews/HackerNews/bin/Debug/netcoreapp3.1/HackerNews
+/Users/acesingh/Documents/HackerNews/HackerNews/bin/Debug/netcoreapp3.1/HackerNews.deps.json
+/Users/acesingh/Documents/HackerNews/HackerNews/bin/Debug/netcoreapp3.1/HackerNews.runtimeconfig.json
+/Users/acesingh/Documents/HackerNews/HackerNews/bin/Debug/netcoreapp3.1/HackerNews.runtimeconfig.dev.json
+/Users/acesingh/Documents/HackerNews/HackerNews/bin/Debug/netcoreapp3.1/HackerNews.dll
+/Users/acesingh/Documents/HackerNews/HackerNews/bin/Debug/netcoreapp3.1/HackerNews.pdb
+/Users/acesingh/Documents/HackerNews/HackerNews/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/acesingh/Documents/HackerNews/HackerNews/obj/Debug/netcoreapp3.1/HackerNews.csprojAssemblyReference.cache
+/Users/acesingh/Documents/HackerNews/HackerNews/obj/Debug/netcoreapp3.1/HackerNews.AssemblyInfoInputs.cache
+/Users/acesingh/Documents/HackerNews/HackerNews/obj/Debug/netcoreapp3.1/HackerNews.AssemblyInfo.cs
+/Users/acesingh/Documents/HackerNews/HackerNews/obj/Debug/netcoreapp3.1/HackerNews.csproj.CopyComplete
+/Users/acesingh/Documents/HackerNews/HackerNews/obj/Debug/netcoreapp3.1/HackerNews.dll
+/Users/acesingh/Documents/HackerNews/HackerNews/obj/Debug/netcoreapp3.1/HackerNews.pdb
